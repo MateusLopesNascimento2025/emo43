@@ -1,0 +1,8 @@
+{
+  "name": "DublIA",
+  "description": "Aplicativo revolucionário de dublagem e tradução de vídeos usando a Inteligência Artificial do Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
